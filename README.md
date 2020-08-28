@@ -7,7 +7,7 @@
         <th>-->Play with Code⛹️‍♂️</th>
         <th>-->Be Build 🏋️‍♀️</th>
         <th>-->Debugging  ⚔️</th>
-        <th>-->Die young ⚰️</th>
+        <th>-->Die young ⚰️</th></tr>
         <tr>
             <th>  N  A  G  A  R  A  J  A  N  </th>
     </tr>
