@@ -2,13 +2,13 @@
 
 <table>
     <tr ><th>-->Live fast</th>
-        <th>-->Die young</th>
-        <th>-->Be Build</th>
         <th>-->Have ._. fun</th>
-        <th>-->Live fast</th>
-        <th>-->Die young</th>
+        <th>-->Keep Learning</th>
+        <th>-->Play with Code</th>
         <th>-->Be Build</th>
-        <th>-->Have ._. fun</th>
+        <th>-->Debugging</th>
+        <th>-->Die young</th>
+
         
     
 </table>
