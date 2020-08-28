@@ -8,10 +8,19 @@
         <th>-->Be Build 🏋️‍♀️</th>
         <th>-->Debugging  ⚔️</th>
         <th>-->Die young ⚰️</th></tr>
-        <tr>
-            <th>  N  A  G  A  R  A  J  A  N  </th>
+</table><br>
+<table>
+    <tr><th> N </th>
+        <th>A</th>
+        <th>G</th>
+        <th>A</th>
+        <th>R</th>
+        <th>A</th>
+        <th>J</th>
+        <th>A</th>
+        <th>N</th>
+        <th>S</th>
     </tr>
-    
 </table>
 <img src="https://miro.medium.com/max/1187/1*0FqDC0_r1f5xFz3IywLYRA.jpeg">
 
