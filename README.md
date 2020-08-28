@@ -9,7 +9,7 @@
         <th>J</th>
         <th>A</th>
         <th>N</th>
-        <th>▫️</th>
+        <th>▪️</th>
         <th>S</th>
     </tr>
 </table>
@@ -38,7 +38,7 @@
         <th>P</th>
         <th>E</th>
         <th>R</th>
-        <th>👓</th>
+        <th>🖥</th>
     </tr>
 </table>
 <br>
