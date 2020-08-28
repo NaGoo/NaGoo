@@ -9,10 +9,23 @@
         <th>J</th>
         <th>A</th>
         <th>N</th>
-        <th></th>
+        <th>.</th>
         <th>S</th>
     </tr>
-</table><br>
+</table><table>
+    <tr><th>D </th>
+        <th>E</th>
+        <th>V</th>
+        <th>E</th>
+        <th>L</th>
+        <th>O</th>
+        <th>P</th>
+        <th>E</th>
+        <th>R</th>
+        
+    </tr>
+</table>
+<br>
 <table>
     <tr ><th>-->Live fast 🚴‍♂️ </th>
         <th>-->Have._.fun🕺</th>
