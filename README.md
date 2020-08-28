@@ -1,6 +1,6 @@
-<h3>
+<h3><pre>
     --Live fast
     --Die young
     --Be Build
-    --Have fun
+    --Have fun</pre>
 </h3>
