@@ -9,7 +9,8 @@
         <th>J</th>
         <th>A</th>
         <th>N</th>
-        <th><b>S</b></th>
+        <th></th>
+        <th>S</th>
     </tr>
 </table><br>
 <table>
