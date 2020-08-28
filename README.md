@@ -9,8 +9,23 @@
         <th>J</th>
         <th>A</th>
         <th>N</th>
-        <th>.</th>
+        <th>✶</th>
         <th>S</th>
+    </tr>
+</table>
+<table>
+    <tr><th>C</th>
+        <th>S</th>
+        <th>💻</th>
+        <th>G</th>
+        <th>R</th>
+        <th>A</th>
+        <th>D</th>
+        <th>U</th>
+        <th>A</th>
+        <th>T</th>
+        <th>E</th>
+        <th>👨🏼‍🎓</th>
     </tr>
 </table>
 <table>
@@ -23,6 +38,7 @@
         <th>P</th>
         <th>E</th>
         <th>R</th>
+        <th>♚</th>
     </tr>
 </table>
 <br>
