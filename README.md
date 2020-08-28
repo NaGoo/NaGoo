@@ -12,7 +12,8 @@
         <th>.</th>
         <th>S</th>
     </tr>
-</table><table>
+</table>
+<table>
     <tr><th>D </th>
         <th>E</th>
         <th>V</th>
@@ -22,7 +23,6 @@
         <th>P</th>
         <th>E</th>
         <th>R</th>
-        
     </tr>
 </table>
 <br>
