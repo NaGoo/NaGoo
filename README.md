@@ -9,14 +9,14 @@
         <th>J</th>
         <th>A</th>
         <th>N</th>
-        <th>✶</th>
+        <th>▫️</th>
         <th>S</th>
     </tr>
 </table>
 <table>
     <tr><th>C</th>
         <th>S</th>
-        <th>💻</th>
+        <th>✶</th>
         <th>G</th>
         <th>R</th>
         <th>A</th>
@@ -38,7 +38,7 @@
         <th>P</th>
         <th>E</th>
         <th>R</th>
-        <th>♚</th>
+        <th>👓</th>
     </tr>
 </table>
 <br>
