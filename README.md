@@ -52,7 +52,7 @@
         <th>->Die young   ⚰️</th></tr>
 </table>
 
-<img src="https://miro.medium.com/max/1187/1*0FqDC0_r1f5xFz3IywLYRA.jpeg">
+<img src="https://dreamix.eu/blog/wp-content/uploads/2016/06/wallpaper-29.jpg">
 
 <table>
     <tr ><th>->Live fast   🚴‍♂️ </th>
