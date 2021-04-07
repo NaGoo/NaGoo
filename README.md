@@ -52,15 +52,3 @@
         <th>->Die young   ⚰️</th></tr>
 </table>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShgbPFDlA4g2vs6rw1HnrTHJ32INeMBkwZfg&usqp=CAU">
-
-<table>
-    <tr ><th>->Live fast   🚴‍♂️ </th>
-        <th>->Have._.fun  🕺</th>
-        <th>->Keep Learning  👨🏾‍💻</th>
-        <th>->Play with Code   ⛹️‍♂️</th>
-        <th>->Be Build   🏋️‍♀️</th>
-        <th>->Debugging    ⚔️</th>
-        <th>->Die young   ⚰️</th></tr>
-</table>
-
