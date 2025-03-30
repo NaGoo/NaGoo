@@ -13,34 +13,17 @@
         <th>S</th>
     </tr>
 </table>
-<table>
-    <tr><th>C</th>
-        <th>S</th>
-        <th>✶</th>
-        <th>G</th>
-        <th>R</th>
-        <th>A</th>
-        <th>D</th>
-        <th>U</th>
-        <th>A</th>
-        <th>T</th>
-        <th>E</th>
-        <th>👨🏼‍🎓</th>
-    </tr>
-</table>
-<table>
-    <tr><th>D </th>
-        <th>E</th>
-        <th>V</th>
-        <th>E</th>
-        <th>L</th>
-        <th>O</th>
-        <th>P</th>
-        <th>E</th>
-        <th>R</th>
-        <th>🖥</th>
-    </tr>
-</table>
+🚀 Full Stack Developer | Code Alchemist | UI/UX Enthusiast
+
+👨‍💻 Turning coffee ☕ into code & ideas into reality
+🌍 Building scalable, efficient, and user-friendly applications
+💡 Passionate about crafting seamless experiences from frontend to backend
+⚙️ Tech Stack: JavaScript | TypeScript | Angular | Node.js | MongoDB | SQL | Tailwind CSS
+
+📌 Lifelong learner | Problem solver | Open-source contributor
+💬 Let’s connect & build something awesome together!
+
+✉️ Email: nagarajansubramanian513@gmail.com  | nagucse05@gmail.com
 <br>
 <table>
     <tr ><th>->Live fast   🚴‍♂️ </th>
