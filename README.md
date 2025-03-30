@@ -15,14 +15,17 @@
 </table>
 🚀 Full Stack Developer | Code Alchemist | UI/UX Enthusiast
 
-👨‍💻 Turning coffee ☕ into code & ideas into reality
-🌍 Building scalable, efficient, and user-friendly applications
-💡 Passionate about crafting seamless experiences from frontend to backend
-⚙️ Tech Stack: JavaScript | TypeScript | Angular | Node.js | MongoDB | SQL | Tailwind CSS
+<br>
 
-📌 Lifelong learner | Problem solver | Open-source contributor
-💬 Let’s connect & build something awesome together!
+👨‍💻 Turning coffee ☕ into code & ideas into reality<br>
+🌍 Building scalable, efficient, and user-friendly applications<br>
+💡 Passionate about crafting seamless experiences from frontend to backend<br>
+⚙️ Tech Stack: JavaScript | TypeScript | Angular | Node.js | MongoDB | SQL | Tailwind CSS<br>
 
+📌 Lifelong learner | Problem solver | Open-source contributor<br>
+💬 Let’s connect & build something awesome together!<br>
+<br>
+<br>
 ✉️ Email: nagarajansubramanian513@gmail.com  | nagucse05@gmail.com
 <br>
 <table>
